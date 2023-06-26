@@ -1,5 +1,5 @@
 Hi there 👋
 
-- Learning ReactJS
-- 10th grade
+- MERN stack
+- 11th grade
 - United States
