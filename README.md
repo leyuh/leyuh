@@ -1,5 +1,4 @@
-Hi there 👋
+welcome to chaos
 
-- MERN stack
-- 11th grade
-- United States
+age 15
+full stack web dev
