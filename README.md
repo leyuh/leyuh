@@ -1,2 +1,1 @@
-Age 16
-Fullstack Web Dev
+Fullstack Web Development | Cybersecurity
