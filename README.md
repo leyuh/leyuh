@@ -31,8 +31,9 @@ Wireshark · Metasploit · Burp Suite · SQLMap · Nmap · Linux · SQL / MySQL
 ## Featured work
 
 - **[cybersec-writeups](https://github.com/leyuh/cybersec-writeups)** — TryHackMe, Hack The Box, and home-lab writeups, mapped to Security+ domains
-- **[pure-prep-waitlist](https://github.com/leyuh/pure-prep-waitlist)** — landing page and waitlist for Pure Prep, live at [pureprep.app](https://pureprep.app)
-- **[crib-crazy-client](https://github.com/leyuh/crib-crazy-client)** / **[crib-crazy-server](https://github.com/leyuh/crib-crazy-server)** — a cribbage discard-practice app (React frontend, Express and MongoDB API)
+- **[crib-crazy-client](https://github.com/leyuh/crib-crazy-client)** / **[crib-crazy-server](https://github.com/leyuh/crib-crazy-server)** — cribbage discard-practice app (React + Express/MongoDB). Hand-coded in 2023–2024.
+- **[fitness-app](https://github.com/leyuh/fitness-app)** — Next.js workout demo. Hand-coded in 2024.
+- **[pure-prep-waitlist](https://github.com/leyuh/pure-prep-waitlist)** — landing page for Pure Prep, live at [pureprep.app](https://pureprep.app). AI-assisted build: product design, direction, and launch by me.
 
 ## Web development
 
